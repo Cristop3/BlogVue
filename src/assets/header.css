@@ -1,0 +1,23 @@
+#myHeader {
+  max-width: 1200px;
+  min-height: 300px;
+  margin: 0 auto;
+  border: 1px solid blue
+}
+
+/*头像*/
+.headImg {
+  width: 120px;
+  display: inline-block;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  box-shadow: 0 0 2px black;
+}
+
+h3{
+  text-shadow:2px 5px 15px	#7D26CD;
+}
+
+.info{
+  font-family: Arial;
+}
